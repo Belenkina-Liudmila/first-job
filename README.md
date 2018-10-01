@@ -7,53 +7,6 @@
   			<title>Інтернет-магазин</title>
  </head>
 <!--Задание стилей для списка в форме меню (верхняя панель)-->
- <style>
-ul {
-    list-style-type: none;
-    margin: 5px;
-    padding: 5px;
-    overflow: hidden;
-    background-color: #FFFFFF;
-}
-
-li a {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: black;
-    font-size: 24px;
-    font-family: Calibri Light, Candara, sans-serif;
-    text-align: center;
-    padding: 16px;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: #C0C0C0;
-}
-h1 a {
-    color: #696969; belenkina02@outlook.com
-    font-size: 34px;
-    font-family: Calibri Light, Candara, sans-serif;
-    text-align: center;
-    text-decoration: none;   
-}
-tr {
-border="1";
-}
-</style>
- <body bgcolor="#FFFFFF" leftmargin="200" rightmarding="200">
-<!--Список в форме меню (верхняя панель)--> 
-<ul>
-  <li><a href="#">ПРОДУКТЫ</a></li>
-  <li><a href="#">ГДЕ КУПИТЬ</a></li>
-  <li><a href="#">ПОДДЕРЖКА И ГАРАНТИЯ</a></li>
-  <li><a href="#">ИНТЕРНЕТ-МАГАЗИН</a></li>
-</ul>
-<!--Селекторы для виравнивания блоков с текстом и картинками--> 
-<div class="info-blog">  
 <h1><a href="https://www.lenovo.com/ru/ru/tablets/android-tablets/tab-series/Lenovo-Tab-10/p/ZZITZTATB7F">Планшет Lenovo Tablet 10 4/64GB Black</a></h1>
     <div align="center"><img src="images/im2.png" alt="Изображение ноутбука-трансформера"></div>
 </div>
