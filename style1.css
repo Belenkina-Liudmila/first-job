@@ -1,0 +1,89 @@
+h1 {  
+  color: #696969;
+  font-size: 34px;
+  font-family: Calibri Light, Candara, sans-serif;
+  text-align: center;
+  }
+ p {
+  color: #696969;
+  font-size: 32px;
+  font-family: Arial, Candara, sans-serif;
+  text-align: left;
+ }
+/*Форматирование списка в конце страницы*/
+.komplekt { 
+  list-style-type: square;
+  font-size: 20px;
+  font-family: Calibri Light, Candara, sans-serif;
+  margin: 5px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: #FFFFFF;
+}
+/*Форматирование блока вверху страницы*/
+.info-blog {
+  width: 100%;
+  border: 0px;
+  padding: 5px;
+  margin: 5px;
+  background-color:#DCDCDC;
+}
+/*Форматирование заглавного текста для описаний*/
+.text_zaglavie {
+  font-size: 28px;
+ color: #696969;
+  font-family: Calibri, Verdana, sans-serif;
+  padding-left: 10px;
+  text-align: left;
+}
+/*Форматирование обычного текста для описаний*/
+.text_ob {
+  color: #696969;
+  font-size: 20px;
+  text-align: left;
+  padding-left: 10px;
+  font-family: Calibri Light, Candara, sans-serif;
+}
+/*Форматирование блока справа*/
+.prav_blok {
+  display: block;
+  width: 50%;
+  line-height: 1.4;
+  height: 340px;
+  border: 0px;
+  padding: 5px;
+  margin: 5px;
+  float: right;
+    }
+/*Форматирование блока слева*/
+.liv_blok {
+  display: block;
+  width: 50%;
+  line-height: 1.4;
+  height: 340px;
+  border: 0px;
+  padding: 5px;
+  margin: 5px;
+  float: left;
+  }
+/*Форматирование разделительных блоков*/
+.blok {
+  width: 100%;
+  height: 340px;
+  border: 0px;
+  padding: 5px;
+  margin: 5px;
+}
+/*Форматирование таблицы*/
+.tabl {
+  font-size: 22px;
+  font-color: #696969;
+  font-family: Calibri Light, Verdana, sans-serif;
+  text-align: right;
+}
+.tabl_right {
+  font-size: 22px;
+  font-color: #696969;
+  font-family: Calibri Light, Verdana, sans-serif;
+  text-align: left;
+}
